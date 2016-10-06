@@ -6,7 +6,7 @@
 
 ```bash
 $ conda list
-# packages in environment at /home/luke/anaconda3/envs/tensorflow:
+# packages in environment at XXX :
 #
 cycler                    0.10.0                   py35_0  
 fontconfig                2.11.1                        6  
