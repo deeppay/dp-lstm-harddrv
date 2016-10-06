@@ -1,7 +1,7 @@
 # dp-lstm-harddrv
 
 - SMART-sequence Harddrive failure prediction
-- Tensorflow
+- Tensorflow ![Tensorflow][https://i.ytimg.com/vi/oZikw5k_2FM/maxresdefault.jpg]
 
 
 ```bash
